@@ -4,8 +4,8 @@ Panel de la **Impact Startup Competition 2027 · Programa Local UTP** («Amazon�
 calificación del jurado con la rúbrica oficial, presentaciones de los equipos y pantalla de
 proyección del pitch con cronómetro.
 
-- Sitio: https://andyferaldo360.github.io/isc-utp/
-- Modo de prueba (no guarda nada en la nube): https://andyferaldo360.github.io/isc-utp/?demo
+- Sitio: https://andyferaldo.github.io/isc-utp/
+- Modo de prueba (no guarda nada en la nube): https://andyferaldo.github.io/isc-utp/?demo
 
 Página estática (HTML + módulos ES, sin compilación) publicada en GitHub Pages, con Supabase
 como base de datos.
