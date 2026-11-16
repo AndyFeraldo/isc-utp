@@ -8,8 +8,8 @@ Panel para que los jurados califiquen los pitches de la ISC UTP 2027, los equipo
 presentación y la sala proyecte el pitch con cronómetro. Tiene casi las mismas mecánicas del
 **Panel Maestro del VI CONCEPMI** (`AndyFeraldo/concepmi-jurados`), pero es un **proyecto aparte**.
 
-- Repositorio: `AndyFeraldo/isc-utp` (público).
-- Publicación: GitHub Pages → `https://andyferaldo.github.io/isc-utp/`
+- Repositorio: `andyferaldo360/isc-utp` (público).
+- Publicación: GitHub Pages → `https://andyferaldo360.github.io/isc-utp/`
 - Modo de prueba: agregar `?demo` a la dirección (`…/isc-utp/?demo`). Todo se guarda solo en ese navegador.
 
 ## Regla n.º 1: no se toca nada del CONCEPMI
