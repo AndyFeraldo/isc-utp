@@ -66,12 +66,17 @@ Todo lo de ISC va en este repositorio y con datos propios (tablas `isc_*`).
   `isc_calificaciones`, `isc_ajustes`, `isc_desempates`, `isc_borrados`, `isc_presentaciones`, `isc_accesos`, `isc_sorteos`.
 
 ## Avance
-1. ✅ Base: portada con logos, 4 puertas, modo de prueba, rúbrica oficial, este archivo.
-2. ⏳ Supabase (pendiente de confirmar con Andy: proyecto nuevo recomendado).
+1. ✅ Base: portada con logos, 4 puertas, modo de prueba, rúbrica oficial, este archivo. Publicado en GitHub Pages.
+2. ⏳ Supabase: Andy creó el proyecto **ISC-UTP** en una **cuenta de Supabase nueva y separada** (no la del
+   CONCEPMI, que ya está en el límite gratuito de 2 proyectos activos), enlazado a este repositorio con la
+   integración de GitHub de Supabase. **Aún sin tablas.** Falta autorizar el conector de Supabase de Claude
+   eligiendo esa organización (el conector ve una sola organización a la vez) y luego proponer las tablas `isc_*`.
+   ⚠️ No crear carpeta `supabase/` en el repositorio: la integración aplicaría esos cambios sola en cada push.
+   Las migraciones van en `sql/` y se aplican a mano tras confirmar con Andy.
 3. Admin: Equipos y Jurados. 4. Jurado. 5. Resultados. 6. Equipo. 7. Proyección. 8. Accesos limitados. 9. Pruebas completas antes del 25/11/2026.
 
 ## Pendientes de Andy
 - Logo de **ISC UTP** y **colores de la marca** (HEX). Logos de Scale e Impact en PNG transparente o SVG (los actuales se limpiaron a mano).
-- ¿Supabase nuevo o el mismo del CONCEPMI con tablas `isc_`? ¿4 min o 1 min de preguntas?
+- ¿4 min o 1 min de preguntas?
 - ¿Cuántos jurados por etapa? ¿Los mismos en Semifinal y Final? Fecha y hora límite para subir el PDF.
 - ¿La Semifinal por Zoom se proyecta compartiendo la pantalla del panel? ¿Los equipos ven sus resultados en el panel o Andy les envía el reporte?
